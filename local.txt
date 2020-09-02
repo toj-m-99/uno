@@ -8,3 +8,6 @@ git remote show origin
  git fetch origin tojBranch
  git pull origin tojBranch --allow-unrelated-histories
 From https://github.com/toj-m-99/uno
+
+
+   git push -u origin newTojBranch
