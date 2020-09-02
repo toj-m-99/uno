@@ -1,0 +1,8 @@
+
+git remote add origin -url-
+git push -u origin
+
+git remote show origin
+ git fetch --all
+
+ git fetch origin tojBranch
